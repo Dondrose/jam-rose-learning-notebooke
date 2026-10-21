@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "table-editor-obsidian",
+  "calendar",
+  "mermaid-tools",
+  "obsidian-style-settings",
+  "templater-obsidian"
 ]
