@@ -1,9 +1,10 @@
 [
   "obsidian-git",
   "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "dataview",
   "table-editor-obsidian",
   "calendar",
   "mermaid-tools",
-  "obsidian-style-settings",
-  "templater-obsidian"
+  "obsidian-style-settings"
 ]

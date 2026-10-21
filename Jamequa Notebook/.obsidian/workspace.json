@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9af9688b5c1ee01",
+        "id": "13a51c6948cbc301",
         "type": "tabs",
         "children": [
           {
-            "id": "bd5bab717954f39b",
+            "id": "17cac8bd43a9293c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,7 +164,7 @@
             }
           },
           {
-            "id": "6e5dea26836deb0f",
+            "id": "c0c9423f29fe3d49",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -172,23 +172,13 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "0e1131205508e00b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,13 +190,48 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "templater-obsidian:Templater": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bd5bab717954f39b",
+  "active": "17cac8bd43a9293c",
   "lastOpenFiles": [
-    "Welcome.md"
+    "05 - Projects",
+    "99 - Utilities/media/svg",
+    "99 - Utilities/media/images",
+    "99 - Utilities/media/diagrams",
+    "99 - Utilities/templates/yearly-note.md",
+    "99 - Utilities/templates/weekly-note.md",
+    "99 - Utilities/templates/quarterly-note.md",
+    "99 - Utilities/templates/monthly-note.md",
+    "99 - Utilities/templates/daily-note.md",
+    "99 - Utilities/templates/company.md",
+    "99 - Utilities/templates/course.md",
+    "99 - Utilities/templates/book.md",
+    "99 - Utilities/media",
+    "99 - Utilities/templates",
+    "99 - Utilities/glossary",
+    "99 - Utilities",
+    "04 - Knowledge/Overview.md",
+    "04 - Knowledge/04-04-sites",
+    "04 - Knowledge/04-03-docs",
+    "04 - Knowledge/04-02-videos",
+    "04 - Research/Overview.md",
+    "03 - Training/Overview.md",
+    "02 - Career/Overview.md",
+    "01-personal/Overview.md",
+    "01 - Personal/Overview.md",
+    "99-utilities/templates/yearly-note.md",
+    "99-utilities/templates/weekly-note.md",
+    "99-utilities/templates/quarterly-note.md",
+    "99-utilities/templates/monthly-note.md",
+    "99-utilities/templates/daily-note.md",
+    "99-utilities/templates/course.md",
+    "99-utilities/templates/company.md",
+    "99-utilities/templates/book.md",
+    "00-utilities/templates/course.md",
+    "00-utilities/templates/company.md",
+    "00-utilities/templates/book.md"
   ]
 }
